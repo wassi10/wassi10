@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khadiza</h1>
 <h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
 
-<p align="left"> <a href="https://twitter.com/@khadizawassi" target="blank"><img src="https://img.shields.io/twitter/follow/@khadizawassi?logo=twitter&style=for-the-badge" alt="@khadizawassi" /></a> </p>
-
 - 🔭 I’m currently working on **as a student**
 
 - 🌱 I’m currently learning **Java Programming Language**
