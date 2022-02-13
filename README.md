@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **as a student**
 
-- 🌱 I’m currently learning **Java Programming Language**
-
-- 👯 I’m looking to collaborate on [console based project using JAVA Programming](https://github.com/sajjad-njr/CodersStrike)
-
-- 🤝 I’m looking for help with [Eassy Shopping Project Based on Basic JAVA Programming](https://github.com/sajjad-njr/CodersStrike)
+- 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **C, C++, JAVA, Competitive Programming**
 
