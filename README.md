@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khadiza</h1>
 <h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
 
-- 🔭 I’m currently working on **as a student**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C, C++, JAVA, Competitive Programming**
 
