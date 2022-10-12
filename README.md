@@ -12,9 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/khadizawassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khadizawassi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khadiza-akther-01412a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadiza-akther-01412a223" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17134869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17134869" height="30" width="40" /></a>
 <a href="https://instagram.com/khadiza_wassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khadiza_wassi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/wassi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="wassi" height="30" width="40" /></a>
 
 </p>
 
