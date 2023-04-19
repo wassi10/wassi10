@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wassi10?tab=repositories](https://github.com/wassi10?tab=repositories)
 
-- 💬 Ask me about **C, C++, Java, JavaScript, HTML, CSS, Flutter, Dart, Competitive Programming**
+- 💬 Ask me about **C, C++, Java, JavaScript, HTML, CSS, Dart, Competitive Programming**
 
 - 📫 How to reach me **cse_2012020295@lus.ac.bd**
 
