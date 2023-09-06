@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khadiza</h1>
 <h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ML and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wassi10?tab=repositories](https://github.com/wassi10?tab=repositories)
 
