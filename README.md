@@ -24,9 +24,8 @@
 <br/>
 <hr/>
 
-<div align=center>
-  <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wassi10&count_private=true&theme=react&border_radius=10" alt="wassi10"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="wassi10" />  
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&locale=en" alt="wassi10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wassi10&" alt="wassi10" /></p>
