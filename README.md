@@ -14,11 +14,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khadiza-wassi-01412a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khadiza-wassi-01412a223" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,flutter,dart,c,cplusplus,java,mysql,django,streamlit" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,flutter,dart,c,java,mysql,django,streamlit" /><br>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10" /></p>
