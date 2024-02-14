@@ -16,9 +16,9 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,flutter,c,c++,java,mysql,django,streamlit" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,flutter,dart,c,cplusplus,java,mysql,django,streamlit" /><br>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10" /></p>
