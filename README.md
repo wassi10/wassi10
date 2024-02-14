@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Khadiza</h1>
-<h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
 
 <div align="center">
  
- - 🌱 I’m currently learning **ML and Deep Learning**
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wassi10?tab=repositories](https://github.com/wassi10?tab=repositories)
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- 💬 Ask me about **C, C++, Java, JavaScript, HTML, CSS, Dart, Competitive Programming**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- 📫 How to reach me **cse_2012020295@lus.ac.bd**
  </div>
+
  <br/>
 <hr/>
 
