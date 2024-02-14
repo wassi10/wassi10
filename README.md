@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Khadiza</h1>
 <h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
 
-- 🌱 I’m currently learning **ML and Deep Learning**
+
+<div align="center">
+ 
+ - 🌱 I’m currently learning **ML and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wassi10?tab=repositories](https://github.com/wassi10?tab=repositories)
 
 - 💬 Ask me about **C, C++, Java, JavaScript, HTML, CSS, Dart, Competitive Programming**
 
 - 📫 How to reach me **cse_2012020295@lus.ac.bd**
+ </div>
+ <br/>
+<hr/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +38,5 @@
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&theme=react" alt="wassi10" /> <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact&theme=react" alt="wassi10" />
 </div>
+<br/>
 <hr/>
