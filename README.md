@@ -12,7 +12,8 @@
 
  💬 Ask me about **JavaScript, HTML, CSS, Machine Learning**
 
-  📫 How to reach me <a href="mailto:cse_2012020295@lus.ac.bd">
+  📫 How to reach me 
+  <a href="mailto:cse_2012020295@lus.ac.bd">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://linkedin.com/in/khadiza-wassi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
