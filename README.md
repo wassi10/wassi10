@@ -27,5 +27,5 @@
 <div align=center>
     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wassi10&theme=react" alt="wassi10" />    
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&theme=react" alt="wassi10" /> <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compacttheme=react" alt="wassi10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact&theme=react" alt="wassi10" />
 </div>
