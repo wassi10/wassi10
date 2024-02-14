@@ -3,19 +3,16 @@
 <h1 align="center">Hi 👋, I'm Khadiza</h1>
 <h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
 
- <br/> <br/>
+ <br/> 
 
 
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Deep Learning, Django**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **JavaScript, HTML, CSS, Machine Learning**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+  📫 How to reach me 
  </div>
 
  <br/>
