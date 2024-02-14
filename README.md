@@ -26,7 +26,6 @@
 
 <div align=center>
   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wassi10&" alt="wassi10"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&locale=en" alt="wassi10" />
-  <br/>  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&locale=en" alt="wassi10" />  
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10"/>
 </div>
