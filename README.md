@@ -17,11 +17,10 @@
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="left">
-    ![Bootstrap, HTML, CSS, VSCode, GitHub](https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github)
-    ![Python, JavaScript, Firebase, Flutter, Dart, C, C++, Java, MySQL, Django, Streamlit](https://skillicons.dev/icons?        i=python,javascript,firebase,flutter,dart,c,cplusplus,java,mysql,django,streamlit)
-
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,flutter,dart,c,java,mysql,django,streamlit" /><br>
 </div>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&locale=en" alt="wassi10" /></p>
