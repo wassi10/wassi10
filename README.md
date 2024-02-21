@@ -37,9 +37,9 @@
 <h2 align="left">Stats</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wassi10&theme=react" alt="wassi10" />    
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true&theme=react" alt="wassi10" /> <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact&theme=react" alt="wassi10" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wassi10" alt="wassi10" />    
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=wassi10&show_icons=true" alt="wassi10" /> <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wassi10&show_icons=true&locale=en&layout=compact" alt="wassi10" />
 </div>
 <br/>
 <hr/>
