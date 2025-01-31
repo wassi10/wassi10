@@ -7,9 +7,7 @@
 <div align="left">
  
  🌱 I’m currently learning **Transformers, Bioinformatics**
-
- 💬 Ask me about **JavaScript, HTML, CSS, Machine Learning**
-
+ 
   📫 How to reach me <br/><br/>
   <a href="mailto:cse_2012020295@lus.ac.bd">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
