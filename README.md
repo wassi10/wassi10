@@ -1,14 +1,12 @@
-
+![Software EngineerGithub Cover](https://github.com/user-attachments/assets/dd618e49-d8b1-43b2-98df-e5c73138934e)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wassi10.wassi10" />
-<h1 align="center">Hi 👋, I'm Khadiza</h1>
-<h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
 
  <br/> 
 
 
 <div align="left">
  
- 🌱 I’m currently learning **Deep Learning, Django**
+ 🌱 I’m currently learning **Transformers, Bioinformatics**
 
  💬 Ask me about **JavaScript, HTML, CSS, Machine Learning**
 
